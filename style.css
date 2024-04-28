@@ -1,0 +1,21 @@
+.header{
+    background-color: rgba(14, 74, 253, 0.896);
+    color:white;
+    text-align: center;
+    
+}
+
+.title{
+   opacity: 70% ;
+   background-color: white;
+ text-align: center;
+ font-family: "Yusei Magic", sans-serif;
+ color:#393e8f;
+}
+
+body {
+    background-image: url("pan-xiaozhen-wXG5XF73o3w-unsplash.jpg");
+    background-size:cover;
+  }
+
+  
