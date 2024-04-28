@@ -24,3 +24,7 @@ body {
     padding: 10px; 
   }
   
+  .accordion-button{
+    background-color: #393e8f;
+    color:white;
+  }
