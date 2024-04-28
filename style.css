@@ -18,5 +18,9 @@ body {
     background-size:cover;
     font-family: "Yusei Magic", sans-serif;
   }
-
+  .writing {
+    color: white;
+    background-color: rgba(57, 62, 143, 0.4); 
+    padding: 10px; 
+  }
   
