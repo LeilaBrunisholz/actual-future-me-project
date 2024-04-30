@@ -1,5 +1,5 @@
 .header{
-    background-color: rgba(14, 74, 253, 0.896);
+    background-color: rgba(14, 74, 253, 0.4);
     color:white;
     text-align: center;
     
@@ -17,6 +17,7 @@ body {
     background-image: url("pan-xiaozhen-wXG5XF73o3w-unsplash.jpg");
     background-size:cover;
     font-family: "Yusei Magic", sans-serif;
+    background-repeat: no-repeat;
   }
   .writing {
     color: white;
@@ -28,3 +29,22 @@ body {
     background-color: #393e8f;
     color:white;
   }
+
+
+.nav-link.eduearning {
+  color: #393e8f; 
+}
+
+.nav-link.responsibilitiesimpact {
+ color: rgb(105, 45, 143); 
+}
+
+.video {
+  text-align: center;
+}
+
+.images{
+  display: flex;
+    justify-content: center;
+    gap: 10px;
+}
